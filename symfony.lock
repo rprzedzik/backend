@@ -92,9 +92,6 @@
     "egulias/email-validator": {
         "version": "2.1.7"
     },
-    "ergonode/exporter-shopware-6": {
-        "version": "1.0.0"
-    },
     "ergonode/importer-magento-1": {
         "version": "1.0.0"
     },

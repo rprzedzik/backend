@@ -1,0 +1,3 @@
+[submodule "module/exporter-shopware-6-backend"]
+	path = module/exporter-shopware-6-backend
+	url = git@github.com:rprzedzik/exporter-shopware-6-backend.git
