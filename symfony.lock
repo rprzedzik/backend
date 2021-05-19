@@ -89,6 +89,9 @@
     "doctrine/reflection": {
         "version": "v1.0.0"
     },
+    "doctrine/sql-formatter": {
+        "version": "1.1.1"
+    },
     "egulias/email-validator": {
         "version": "2.1.7"
     },
@@ -161,6 +164,9 @@
     "laminas/laminas-zendframework-bridge": {
         "version": "1.0.1"
     },
+    "lcobucci/clock": {
+        "version": "2.0.0"
+    },
     "lcobucci/jwt": {
         "version": "3.2.2"
     },
@@ -182,6 +188,9 @@
             "config/packages/flysystem.yaml",
             "var/storage/.gitignore"
         ]
+    },
+    "league/mime-type-detection": {
+        "version": "1.7.0"
     },
     "lexik/jwt-authentication-bundle": {
         "version": "2.3",
@@ -368,6 +377,9 @@
     },
     "sanmai/pipeline": {
         "version": "v5.0.1"
+    },
+    "sebastian/code-unit": {
+        "version": "1.0.8"
     },
     "sebastian/code-unit-reverse-lookup": {
         "version": "2.0.0"
