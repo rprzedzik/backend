@@ -1,3 +1,6 @@
 [submodule "module/exporter-shopware-6"]
 	path = module/exporter-shopware-6
 	url = git@github.com:rprzedzik/exporter-shopware-6-backend.git
+[submodule "module/importer-magento-1-remote"]
+	path = module/importer-magento-1-remote
+	url = git@github.com:rprzedzik/importer-magento-1-backend.git
